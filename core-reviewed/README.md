@@ -25,6 +25,6 @@ This app uses MongoDB as a data store.  You may have to install that as well and
 - Grab an Authy API key from the Authy dashboard and save it in your demo.env
 - Load the demo.env environmental variables into your shell `source demo.env`
 - Check and make sure MongoDB is up and running
-- Run `nodemon .` or `node .` from the cloned repo to run the app
+- Run `nodemon .` or `node .` from the repo to run the app
 - BINGO! You are up and runnning !
 
