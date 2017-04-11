@@ -1,8 +1,11 @@
 ![Authy](https://raw.githubusercontent.com/AuthySE/Authy-demo/master/authy-logo.png)
 
-# Authy Demo Site - 2FA and Phone Verification
+# Authy 2FA and Phone Verification
 
-A simple NodeJS and AngularJS implementation of a website that uses Authy to protect all assets within a folder.  Additionally, we have a simple Phone Verification demo website.
+This exercise has been code reviewed officially with Authy and the  writer - Alex!
+
+A simple NodeJS and AngularJS implementation of a website that uses Authy to protect all assets within a folder.  
+
 This app uses MongoDB as a data store.  You may have to install that as well and make sure it is up and running.
 
 #### 2FA Demo
@@ -16,7 +19,6 @@ This app uses MongoDB as a data store.  You may have to install that as well and
 - SMS or Voice Call
 
 ### Setup
-- Clone this repo
 - Run `npm install`
 - Register for a [Twilio Account](https://www.twilio.com/).
 - Setup an Authy app via the [Twilio Console](https://twilio.com/console).
@@ -24,6 +26,5 @@ This app uses MongoDB as a data store.  You may have to install that as well and
 - Load the demo.env environmental variables into your shell `source demo.env`
 - Check and make sure MongoDB is up and running
 - Run `nodemon .` or `node .` from the cloned repo to run the app
+- BINGO! You are up and runnning !
 
-### License
-- MIT
