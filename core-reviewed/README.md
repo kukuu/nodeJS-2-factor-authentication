@@ -1,4 +1,4 @@
-![Authy](https://raw.githubusercontent.com/AuthySE/Authy-demo/master/authy-logo.png)
+<!--![Authy](https://raw.githubusercontent.com/AuthySE/Authy-demo/master/authy-logo.png)-->
 
 # Authy 2FA and Phone Verification
 
